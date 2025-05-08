@@ -75,6 +75,7 @@ section h3 {
 }
 
 .activity-card ul {
+  /* participants */
   margin-top: 12px;
   padding-left: 20px;
   list-style-type: disc;
